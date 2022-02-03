@@ -445,8 +445,8 @@
 
     <!-- char_info -->
     <string name="artifact_stat1">1 часть</string>
-    <string name="artifact_stat2">2 часть(ти)</string>
-    <string name="artifact_stat4">4 часть(ти)</string>
+    <string name="artifact_stat2">2 части</string>
+    <string name="artifact_stat4">4 части</string>
 
 
     <!-- setting -->
@@ -500,7 +500,7 @@
     <string name="cal_reset">сброс настроек</string>
 
     <!-- add in 20211027 -->
-    <string name="nora_fortis">Nora Fortis</string>
+    <string name="nora_fortis">Нора Фортис</string>
     <string name="snezhnaya">Снежная</string>
 
     <!-- add in 20211028 -->
@@ -513,7 +513,7 @@
     <string name="husk_of_opulent_dreams">Кокон сладких грёз</string>
 
     <!-- add in 20211226 && 20220103 -->
-    <string name="weapon_stat_EleDMGP_Electro">Бонус физ. урона</string>
+    <string name="weapon_stat_EleDMGP_Electro">Бонус Физ. урона</string>
     <string name="weapon_stat_EleDMGP_Pyro">Бонус Пиро урона</string>
     <string name="weapon_stat_EleDMGP_Hydro">Бонус Гидро урона</string>
     <string name="weapon_stat_EleDMGP_Dendor">Бонус Дендро урона</string>
@@ -530,7 +530,7 @@
 
     <!-- add in 20220108 -->
     <string name="background_setting">Настройка фона</string>
-    <string name="background_accept_list">Принимаются только JPG,JPEG,PNG,GIF</string>
+    <string name="background_accept_list">Принимаются только JPG, JPEG, PNG, GIF</string>
     <string name="background_press_set">Настройка</string>
     <string name="background_source">Источник</string>
     <string name="background_display">Отображать</string>
@@ -552,10 +552,10 @@
     <string name="update_download_update_curr">Скачать обновление</string>
     <string name="update_download_update_base">Скачать все файлы</string>
     <string name="update_download_advice">Рекомендуется скачивать после подключения к Wi-Fi</string>
-    <string name="update_download_base_file_size">Обновить размер файла:</string>
-    <string name="update_download_update_file_size">Обновить размер файла:</string>
-    <string name="update_download_later">скачать позже</string>
-    <string name="update_download_now">скачать сейчас</string>
+    <string name="update_download_base_file_size">Размер обновления:</string>
+    <string name="update_download_update_file_size">Размер обновления:</string>
+    <string name="update_download_later">Скачать позже</string>
+    <string name="update_download_now">Скачать сейчас</string>
     <string name="update_download_check">Проверить наличие обновлений</string>
     <string name="update_download_found_update">Обновления найдены!</string>
     <string name="update_download_downloading">Загрузка... Пожалуйста, подождите...</string>
