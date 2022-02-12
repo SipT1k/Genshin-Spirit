@@ -762,9 +762,9 @@
     <string name="buff_low_plunge_dmg">Урон низкого удара</string>
     <string name="buff_high_plunge_dmg">высокого удара</string>
 
-    <string name="buff_uncrit_dmg">некритический урон</string>
-    <string name="buff_crited_dmg">критический урон</string>
-    <string name="buff_grade">оценка : </string>
-    <string name="buff_upgrade_times">Время обновления : </string>
+    <string name="buff_uncrit_dmg">НЕкрит. урон</string>
+    <string name="buff_crited_dmg">Крит. урон</string>
+    <string name="buff_grade">Оценка: </string>
+    <string name="buff_upgrade_times">Время обновления: </string>
 </resources>
 
